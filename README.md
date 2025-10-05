@@ -22,9 +22,8 @@ Task Manager is a C++ backend API designed for managing projects, tasks, users, 
 
 ---
 
-## Development Progress
-- [ ] Project structure created  
-- [ ] Git repository initialized  
+## Development Progress 
+- [x] Git repository initialized  
 - [ ] Build system configured (CMake)  
 - [ ] Database schema and migrations implemented  
 - [ ] Authentication and user endpoints added  
